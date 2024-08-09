@@ -1,0 +1,110 @@
+.navbar{
+    padding:10px 250px;
+    
+}
+.navbar div ul li a{
+color: black;
+}
+.navbar div ul li a:hover{
+background-color: rgb(218, 177, 177);
+font-size: 17px;
+border-radius: 10px;
+}
+.sec_1{
+    background-color: rgb(242, 238, 238);
+}
+.sec_1 div img{
+    height: 92vh;
+}
+.sec_1 div h1{
+    font-size:60px ;
+}
+.sec_3{
+    background-color: rgb(233, 240, 235);
+}
+.zizo{
+    height: 92vh;
+
+}
+.zizo div img{
+    padding: 0 15px;
+    opacity: 0.8;
+}
+.zizo div img:hover{
+    opacity: 1;
+}
+.sec_4{
+    height: 100vh;
+    width: 98.9vw;
+    padding: 15px;
+    background-color: rgb(235, 237, 239);
+}
+.mimg{
+   margin:0px 0 35px 120px; 
+}
+.vertical{
+    margin-left: 10px;
+}
+.sec_4 img{
+
+    opacity: 0.9;
+}
+.sec_4 img:hover{
+    opacity: 1;
+}
+.sec_5{
+    height: 100vh;
+    background-color: rgba(232, 242, 238, 0.716);
+    padding-top: 50px;
+}
+.watches img{
+    border: 3px solid transparent;
+    border-radius: 20px;
+}
+.watches img:hover{
+    border: 3px solid rgb(175, 186, 146);
+    transition: 0.3s ease-in-out;
+    transform: translateY(-15px) ;
+}
+.sec_6{
+    height: 100vh;
+    align-content: center;
+    background-color: rgba(224, 231, 228, 0.716);
+}
+.watches_2 img{
+    border: 3px solid transparent;
+    border-radius: 20px;
+}
+.watches_2 img:hover{
+    border: 3px solid rgb(175, 186, 146);
+    transition: 0.3s ease-in-out;
+    transform: translateY(-15px) ;
+}
+.sec_7{
+    height: 100vh;
+    background-color: rgba(232, 231, 230, 0.716);
+}
+.sec_7 button:hover{
+background-color: transparent;
+color: brown;
+}
+.sec_8{
+    height: 100vh;
+    background-color: rgb(243, 243, 244);
+}
+.orange_box{
+    background-color: orangered;
+    width: 70rem;
+    height:200px ;
+    color: white;
+text-align: center;
+border-radius: 25px;
+margin: 0 auto;
+}
+.box{
+    height: 50vh;
+}
+.footer div a{
+    display: block;
+    line-height: 40px;
+}
